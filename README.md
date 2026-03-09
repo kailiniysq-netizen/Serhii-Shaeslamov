@@ -14,6 +14,7 @@ I am a detail-oriented Trainee QA Engineer currently focused on mastering softwa
 * **Engineering & Design:** AutoDesk (Master’s Degree in Engineering) — expert in reading complex technical blueprints and specifications.
 * **Development Basics:** Python (PyCharm), basic scripting and logic.
 * **Office Suites:** Advanced Google Sheets (Data organization, Test Case management).
+  
 ---
 
 ### 📈 Current Learning Path
@@ -22,6 +23,13 @@ I am a detail-oriented Trainee QA Engineer currently focused on mastering softwa
 * 🐞 Practicing real-world testing on **Test IO** platform.
 * 📖 Studying Software Testing foundations (ISTQB standards).
 * 🐍 Refreshing my **Python** basics for future Test Automation.
+
+---
+
+### 🎓 Education
+* **Master’s Degree in Food Technology & Engineering** (6.5 years of study)
+* **Specialization:** Design and Engineering of Industrial Bakery Complexes.
+* **Key Skills Gained:** Process optimization, technical documentation (blueprints), quality control systems, and compliance with strict industry standards.
 
 ---
 
