@@ -9,11 +9,11 @@ I am a detail-oriented Trainee QA Engineer currently focused on mastering softwa
 
 ### 🛠️ My Tech Toolbox
 
-* **Testing:** Manual Testing, Bug Reporting, Test Cases, Exploratory Testing.
-* **Databases:** SQL (Joins, Aggregates, Data Transformation) — currently practicing with **SQLite** and **PostgreSQL**.
-* **Tools:** VS Code, Jira, Confluence, Git/GitHub.
-* **Operating Systems:** Windows & Linux (Command Line basics).
-
+* **Testing:** Manual Testing, Technical Documentation, Quality Standards.
+* **Databases:** SQL (Currently mastering Aggregates & Joins in VS Code).
+* **Engineering & Design:** AutoDesk (Master’s Degree in Engineering) — expert in reading complex technical blueprints and specifications.
+* **Development Basics:** Python (PyCharm), basic scripting and logic.
+* **Office Suites:** Advanced Google Sheets (Data organization, Test Case management).
 ---
 
 ### 📈 Current Learning Path
